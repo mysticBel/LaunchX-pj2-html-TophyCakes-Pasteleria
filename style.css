@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Permanent+Marker&family=Poppins:wght@100;200;400;700&display=swap');
+
+body{
+	height: 100%;
+	margin: 0%;
+    font-family: Poppins;
+    color:  rgb(54, 54, 54);
+}
+nav{
+	list-style: none; 
+	align-items: center; 
+	justify-content: space-between; 
+	display: flex;
+	/* background: #DA4D4E; */
+	padding: 15px;
+	font-size: 20px;
+	
+}
+ul li{
+	display: inline-block;
+	padding: 0px 20px;
+	color: rgb(53, 53, 53);
+}
+
+#info{
+	/* background: #e4c9b1; */
+    background: #c9c9c9;
+	text-align: center;
+	padding: 70px;
+	font-family: Poppins;
+	font-size: 20px;
+	color: rgb(54, 54, 54);
+}
+footer{
+	/* background-color: #9F7F75; */
+    background-color: #535353;
+	padding: 30px;
+    color: white;
+    text-align: center;
+}
